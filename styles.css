@@ -1,0 +1,137 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container1 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/ocean.jpg");
+    background-size: cover;
+    height: 100vh;
+}
+
+.card-container1 {
+    background-color: white;
+    padding: 15px;
+    border-top-left-radius: 19px;
+    border-top-right-radius: 19px;
+    text-align: center;
+}
+
+.button1 {
+    border-radius: 30px;
+    padding: 10px;
+    font-family: Roboto;
+    background-color: #25b1cc;
+    border: 0px;
+    color: white;
+    width: 140px;
+}
+
+.heading1 {
+    font-family: Bree Serif;
+    color: #2f4475;
+}
+
+.para1 {
+    font-family: Roboto;
+    font-size: 20px;
+}
+
+.bg-container2 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/towerbg.png");
+    background-size: cover;
+    padding: 7px;
+}
+
+.favourite-place-heading {
+    color: white;
+    font-weight: bold;
+    font-family: Roboto;
+    padding: 14px;
+    font-size: 30px;
+}
+
+.favourite-place-card-container {
+    background-color: white;
+    border-radius: 8px;
+    padding: 12px;
+    margin: 14px;
+}
+
+.favourite-place-card-heading {
+    font-family: Bree Serif;
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.favourite-place-card-para {
+    font-family: Roboto;
+    font-size: 16px;
+    color: black;
+}
+
+.favourite-place-card-image {
+    height: 100px;
+    width: 100px;
+}
+
+.back-button {
+    border-radius: 20px;
+    width: 90px;
+    padding: 5px;
+    background-color: #253845;
+    color: white;
+    border: 0px;
+    font-family: Roboto;
+    font-size: 14px;
+}
+
+.button-card {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.bg-container3 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/seabg.png");
+    background-size: cover;
+    padding: 7px;
+}
+
+.detailed-view-heading {
+    color: white;
+    padding: 15px;
+    font-family: Serif;
+    font-weight: bold;
+}
+
+.detailed-view-card-container {
+    margin: 15px;
+    background-color: white;
+    border-radius: 15px;
+}
+
+.detailed-view-text-container {
+    padding: 15px;
+}
+
+.back-button {
+    border-radius: 20px;
+    width: 90px;
+    padding: 5px;
+    background-color: #253845;
+    color: white;
+    border: 0px;
+    font-family: Roboto;
+    font-size: 14px;
+}
+
+.button-card {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.detailed-view-text-heading {
+    font-family: Bree Serif;
+}
+
+.detailed-view-text-para {
+    font-family: Roboto;
+}
